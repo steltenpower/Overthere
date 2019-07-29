@@ -9,3 +9,4 @@ Browser extension to enrich every address, coordinate or map with anything (thro
 - likelihood of droughts and floodings (based on soil layers)
 - solar energy potential
 - climate
+- noise data (partially from Explane app?)
