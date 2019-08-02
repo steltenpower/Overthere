@@ -10,3 +10,5 @@ Browser extension to enrich every address, coordinate or map with anything (thro
 - solar energy potential
 - climate
 - noise data (partially from Explane app?)
+
+relatively easy for addresses written as https://schema.org/address 
