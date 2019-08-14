@@ -1,6 +1,6 @@
 # Overthere
 
-Browser extension to enrich every address, coordinate or map with anything (through extensibility)
+Browser extension to enrich every address, coordinate or map found in any webpage with anything (through extensibility)
 
 "Anything" can be (m)any of the below and more
 - air pollution data and location of sources
@@ -9,6 +9,6 @@ Browser extension to enrich every address, coordinate or map with anything (thro
 - likelihood of droughts and floodings (based on soil layers)
 - solar energy potential
 - climate
-- noise data (partially from Explane app?)
+- noise data (partially from explane.org app?)
 
 relatively easy for addresses written as https://schema.org/address 
