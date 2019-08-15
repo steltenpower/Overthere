@@ -14,3 +14,11 @@ Some suggestions for that anything:
 - likelihood of droughts and floodings (based on soil layers and climate)
 - solar energy potential
 - noise data (partially from explane.org app?)
+- nearest vegan restaurant, train station, play garden, etc.
+
+
+## Possible side effects
+
+People browsing for a house to buy, within that flow see the air quality overthere and change decisions because of that.
+People consider air quality more important as they don't want to have trouble selling their house in the future.
+Companies consider air quality more important as they don't want difficulty attracting paying visitors or personnel.
