@@ -1,6 +1,6 @@
 # Overthere
 
-Physical addresses, coordinates or maps in any webpage can be enriched with information.
+Physical addresses, coordinates or maps (careful with different projections) in any webpage can be enriched with information.
 
 Technically:
 - browser extension that detects (schema.org/address), suggests (regex guessing) and allows for manual selection of the geographical location.
