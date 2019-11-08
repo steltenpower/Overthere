@@ -15,7 +15,7 @@ Some suggestions for that anything:
 - solar energy potential
 - noise data (partially from explane.org app?)
 - nearest vegan restaurant, train station, play garden, etc.
-
+- crime risks
 
 ## Possible side effects
 
