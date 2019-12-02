@@ -23,6 +23,9 @@ People browsing for a house to buy, within that flow see the air quality overthe
 People consider air quality more important as they don't want to have trouble selling their house in the future.
 Companies consider air quality more important as they don't want difficulty attracting paying visitors or personnel.
 
+
 Tech to help this possibly:
+
 https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj?hl=en
+
 http://www.pilod.nl/wiki/Linked_Data_Reactor
