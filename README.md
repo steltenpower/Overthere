@@ -1,14 +1,15 @@
 # Overthere
 
-Physical addresses, coordinates or maps (careful with different projections) in any webpage can be enriched with information.
+User Interaction:
+Physical addresses, coordinates or maps in any webpage you are merely a visitor of, can be enriched with location-based information of your current interest.
 
 Technically:
-- browser extension that detects (schema.org/address), suggests (regex guessing) and allows for manual selection of the geographical location.
-- Gives information in that webpage, on hover or in a new browser tab (automatically or after user interaction). Depending preferences.
+- browser extension that detects (schema.org/address), suggests (regex guessing), and allows for manual selection of the geographical location or area.
+- Injects icons with a score within the webpage, depending preferences. The icon is also where you can find a configuration menu.
 - Anything is possible for related information, as it will have a plug-in structure
 
-Some suggestions for that anything:
-- air pollution data and location of sources
+Some suggestions for data to enrich with:
+- air pollution data and location of sources (Tropomi, PlumeLabs, samenmeten.nl, etc.)
 - fastest bike route there from current GPS(-like) position, compared to driving including traffic and parking
 - likelihood of being underwater because of sea level rise
 - likelihood of droughts and floodings (based on soil layers and climate)
@@ -16,11 +17,15 @@ Some suggestions for that anything:
 - noise data (partially from explane.org app?)
 - nearest vegan restaurant, train station, play garden, etc.
 - crime risks
+- soil data
+- land registry
 
 ## Possible side effects
 
 People browsing for a house to buy, within that flow see the air quality overthere and change decisions because of that.
+
 People consider air quality more important as they don't want to have trouble selling their house in the future.
+
 Companies consider air quality more important as they don't want difficulty attracting paying visitors or personnel.
 
 
@@ -29,3 +34,5 @@ Tech to help this possibly:
 https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj?hl=en
 
 http://www.pilod.nl/wiki/Linked_Data_Reactor
+
+Careful with different map projections
