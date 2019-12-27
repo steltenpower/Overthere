@@ -1,7 +1,7 @@
 # Overthere
 
 User Interaction:
-Physical addresses, coordinates or maps in any webpage you are merely a visitor of, can be enriched with location-based information of your current interest.
+- Physical addresses, coordinates or maps in any webpage you are merely a visitor of, can be enriched with location-based information of your current interest.
 
 Technically:
 - browser extension that detects (schema.org/address), suggests (regex guessing), and allows for manual selection of the geographical location or area.
@@ -21,18 +21,12 @@ Some suggestions for data to enrich with:
 - land registry
 
 ## Possible side effects
-
-People browsing for a house to buy, within that flow see the air quality overthere and change decisions because of that.
-
-People consider air quality more important as they don't want to have trouble selling their house in the future.
-
-Companies consider air quality more important as they don't want difficulty attracting paying visitors or personnel.
+- People browsing for a house to buy, within that flow see the air quality overthere and change decisions because of that.
+- People consider air quality more important as they don't want to have trouble selling their house in the future.
+- Companies consider air quality more important as they don't want difficulty attracting paying visitors or personnel.
 
 
-Tech to help this possibly:
-
-https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj?hl=en
-
-http://www.pilod.nl/wiki/Linked_Data_Reactor
-
-Careful with different map projections
+### Tech to help this possibly:
+- https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj?hl=en
+- http://www.pilod.nl/wiki/Linked_Data_Reactor
+- Careful with different map projections
