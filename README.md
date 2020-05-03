@@ -1,7 +1,7 @@
 # Overthere
 
 User Interaction:
-- Physical addresses, coordinates or maps in any webpage you are merely a visitor of, can be enriched with location-based information of your current interest.
+- Physical addresses, coordinates or maps in any webpage you are merely a visitor of, can be enriched with location-based information of your current interests.
 
 Technically:
 - browser extension that detects (schema.org/address), suggests (regex guessing), and allows for manual selection of the geographical location or area.
