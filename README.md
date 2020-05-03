@@ -9,7 +9,7 @@ Technically:
 - Anything is possible for related information, as it will have a plug-in structure
 
 Some suggestions for data to enrich with:
-- air pollution data and location of sources (Tropomi, PlumeLabs, samenmeten.nl, etc.)
+- air pollution data and location of sources (Tropomi, PlumeLabs, samenmeten.nl, etc.). Even more interesting at the moment because of a correlation with COVID-19.
 - fastest bike route there from current GPS(-like) position, compared to driving including traffic and parking
 - likelihood of being underwater because of sea level rise
 - likelihood of droughts and floodings (based on soil layers and climate)
