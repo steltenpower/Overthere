@@ -25,6 +25,7 @@ Some suggestions for data to enrich with:
 - People consider air quality more important as they don't want to have trouble selling their house in the future.
 - Companies consider air quality more important as they don't want difficulty attracting paying visitors or personnel.
 
+See also https://twitter.com/COPInterest/status/1262295444044029953
 
 ### Tech to help this possibly:
 - https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj?hl=en
