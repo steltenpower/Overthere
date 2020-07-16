@@ -31,3 +31,5 @@ See also https://twitter.com/COPInterest/status/1262295444044029953
 - https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj?hl=en
 - http://www.pilod.nl/wiki/Linked_Data_Reactor
 - Careful with different map projections
+
+Or should we just use "Map Switcher": https://twitter.com/qualmist/status/1281148451321831426 ?
