@@ -33,3 +33,4 @@ See also https://twitter.com/COPInterest/status/1262295444044029953
 - Careful with different map projections
 
 Or should we just use "Map Switcher": https://twitter.com/qualmist/status/1281148451321831426 ?
+Natuurlijk kun je ook wegens houtrook bezwaar maken tegen WOZbeschikking
