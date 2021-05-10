@@ -2,6 +2,7 @@
 
 User Interaction:
 - Physical addresses, coordinates or maps in any webpage you are merely a visitor of, can be enriched with location-based information of your current interests.
+<img src="https://repository-images.githubusercontent.com/149291966/505b9780-7a34-11eb-9c96-a42641968c99">
 
 Technically:
 - browser extension that detects (schema.org/address), suggests (regex guessing), and allows for manual selection of the geographical location or area.
