@@ -37,6 +37,6 @@ Or should we just use "Map Switcher": https://twitter.com/qualmist/status/128114
 
 In case this is not in-context enough, one could also try the https://www.sensiks.com/ VR cabins to make you feel the heat etc.
 
-
+https://app.nos.nl/op3/stresstest-voor-je-adres/
 
 Natuurlijk kun je ook wegens houtrook bezwaar maken tegen WOZbeschikking
